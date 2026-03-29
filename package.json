@@ -1,0 +1,14 @@
+{
+  "name": "claude-desktop-linux",
+  "version": "1.0.0",
+  "main": "main.js",
+  "productName": "Claude",
+  "private": true,
+  "scripts": {
+    "extract": "node scripts/extract.mjs",
+    "start": "electron . --no-sandbox"
+  },
+  "dependencies": {
+    "electron": "40.4.1"
+  }
+}

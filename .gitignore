@@ -1,0 +1,8 @@
+node_modules/
+resources/
+Claude Setup.exe
+Claude.msix
+*.log
+.playwright-mcp/
+.claude/
+CLAUDE.md
